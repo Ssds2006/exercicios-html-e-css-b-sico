@@ -1,0 +1,21 @@
+.cabecalho {
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.produtos-moda{
+    
+    background-color: #BB86FC;
+    
+}
+
+.produtos-casa {
+    background-color: #00C4B4;
+}
+
+.produtos-descricao {
+    background-color: #424250;
+    color: white;
+    font-size: 18px;
+}
